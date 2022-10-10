@@ -52,21 +52,14 @@ Code In Arabic
 لا أستطيع التاكيد أكثر من هذا علي اهمية الجافا اسكريب! وعشان هو مهم (وصعب) لازم ناخد وقتنا في التعلم عشان نتقنه نتقنه لان كل اللي جي بعد كدا معتمد عليه!
 **مصادر التعلم الخاصه بال JS**
 
-1.تعلم الأساسيات [هنا](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
-
-2.تعلم كيف التعامل مع ال HTML و ال CSS من ال JS [هنا](https://www.youtube.com/watch?v=LlQC9sU0coM&list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i)
-
-3.تعلم بناء اشياء بسطه بال JS من [هنا](https://www.youtube.com/watch?v=AeXkyj4mXms&list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
-
-4.المزيد من الامثله [هنا](https://www.youtube.com/watch?v=Auo9jbFJf74&list=PLDoPjvoNmBAxhsMvDrXldKClH7FdE8WSf)
-
-5.تعلم كيف التعامل مع الواجه الخلفيه باستخدام ال JS من [هنا](https://www.youtube.com/watch?v=CLpmD7hxiBs&list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ)
-
-6.تعلم وضع ال HTML و الCSS و ال JS مع بعض باحترافيه كامله [هنا](https://www.youtube.com/watch?v=vedT2jk3hi4&list=PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8)
-
-7.تعلم مواضيع متقدمه(OOP) من [هنا](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
-
-8.تعلم مواضيع اكثر تقدما (Testing) من [هنا](https://www.youtube.com/watch?v=I5ba6jpRNh8&list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
+1. تعلم الأساسيات [هنا](https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
+2. تعلم كيف التعامل مع ال HTML و ال CSS من ال JS [هنا](https://www.youtube.com/watch?v=LlQC9sU0coM&list=PLDoPjvoNmBAxx97QDMOCpzxbu1ZHJ4i7i)
+3. تعلم بناء اشياء بسطه بال JS من [هنا](https://www.youtube.com/watch?v=AeXkyj4mXms&list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT)
+4. المزيد من الامثله [هنا](https://www.youtube.com/watch?v=Auo9jbFJf74&list=PLDoPjvoNmBAxhsMvDrXldKClH7FdE8WSf)
+5. تعلم كيف التعامل مع الواجه الخلفيه باستخدام ال JS من [هنا](https://www.youtube.com/watch?v=CLpmD7hxiBs&list=PLDoPjvoNmBAwH_PyuEFjk3OvXflJJrDRQ)
+6. تعلم وضع ال HTML و الCSS و ال JS مع بعض باحترافيه كامله [هنا](https://www.youtube.com/watch?v=vedT2jk3hi4&list=PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8)
+7. تعلم مواضيع متقدمه(OOP) من [هنا](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
+8. تعلم مواضيع اكثر تقدما (Testing) من [هنا](https://www.youtube.com/watch?v=I5ba6jpRNh8&list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
 
 - تعلم البوت استراب (Bootstrap)
 
