@@ -21,11 +21,11 @@ Code In Arabic
 
 يعتمد مجال الويب علي مهارات متنوعه وعديده علي خلاف بعض المجلات الثانيه...
 
-## الواجه الأماميه (Fronte-end)
+# الواجه الأماميه (Fronte-end)
 
 اهم المهارات لتعلمها هي
 
-### تعلم ال HTML و CSS
+## تعلم ال HTML و CSS
 
 أفضل مكان للبدايه بال HTML [هنا](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) من اسامه الزيرو
 
@@ -45,7 +45,7 @@ Code In Arabic
 
 بعد اتمام سماع وتطبيق هذه المشاريع المتوقع تكون قادر علي اتمام مشروع باستخدام ال HTML و ال CSS وتكون قادر علي حل المشاكل اللي هتقابلك فيهم وعند المقدره تعمل مشاريع متوسطه وكبيره باستخدامهم فقط ولكن بدون الحاجه الي ال JS لان دا هيكون التركيز عليه في الخطوه اللي جيه
 
-### جافاسكريبت - JavaScript
+## جافاسكريبت - JavaScript
 
 يعتبر الجافا اسكريبت من اهم الخطوات والمهارات اللذي يجب التركيز والاهتمام بها أشد الاهتمام!
 لان هذه أول (وأصعب) خطوه في البرمجه الحقيقه ان لم تكون أهمها علي الاطلاق!
@@ -61,17 +61,28 @@ Code In Arabic
 7. تعلم مواضيع متقدمه(OOP) من [هنا](https://www.youtube.com/watch?v=6ivFyw0gs8o&list=PLDoPjvoNmBAzLyvrWPwMw6bbBlTwPxgLF)
 8. تعلم مواضيع اكثر تقدما (Testing) من [هنا](https://www.youtube.com/watch?v=I5ba6jpRNh8&list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O)
 
-- تعلم البوت استراب (Bootstrap)
+## تعلم CSS Framework (اختياري)
 
-10. شي يسمي فريمورك (framework)!
-    ولدينا ثلاثه منهم مشهورين هم React, Vue and Angular
-    React -> معمول من شركه فيسوبك وهو الاكثرهم شهره واستخداما
-    Vue -> عباره عن مشوروع Open Source معمول من افراد مميزين ولا ينتمي الي شركه معينه
-    Angular (انجيلر) -> تابع لشركه جوجل وهو مميز ولكنه يحتج الي مزيد من الوقت لتعلمه علي خلاف الاثنين السابقين!
+مجموعه من وقتها ان تقلل الوقت المستغرق لكتابت ال CSS!
 
--نظرا لمحدودية المصادر باللغه العربيه بالاضافه الي سهولة تعلم ال Vue اعتقد ان دا ممكن يكون افضل مكان تبدا منه.
-سوف تكون البدايه من هنا https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw
-ومن ثم نتحرك الي هنا https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9
+1.  تعلم البوت استراب (Bootstrap) من [هنا](https://www.youtube.com/watch?v=9mdGUKFu5OQ&list=PLDoPjvoNmBAyvm7f--dc6XqkpfDcen_vQ)
+2.  تعلم ال SASS من [هنا](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2)
+
+## تعلم UI Framework
+
+أدوات من شانها أن تجعل العمل مع HTML و CSS و JS أسهل وأكثر احترافيه!
+وتمكنك من عمل مشاريع علي نطاق كبير بسهلوه
+
+ولدينا ثلاثه مشهورين هم **React, Vue and Angular**
+
+1.  الأول React (رياكت): معمول من شركه فيسوبك وهو الاكثرهم شهره واستخداما
+2.  الثاني Vue (فيو): عباره عن مشوروع Open Source معمول من افراد مميزين ولا ينتمي الي شركه معينه
+3.  الثالث Angular (أنجيلر): تابع لشركه جوجل وهو مميز ولكنه يحتج الي مزيد من الوقت لتعلمه علي خلاف الاثنين السابقين!
+
+-نظرا لمحدودية المصادر باللغه العربيه بالاضافه الي سهولة تعلم ال Vue اعتقد أنه سيكون أفضل مكان تبدا منه!
+
+1. تعلم الأساسيات من [هنا](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxr5AqK3Yz4DWYKVSmIFziw)
+2. تعلم بناء مشاريع أكبر قليلا من [هنا](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9)
 
 ## الواجه الخالفيه
 
